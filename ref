@@ -1,0 +1,85 @@
+[1]	R. M. Bell, T. J. Ostrand, and E. J. Weyuker, "Looking for bugs in all the right places," in International Symposium on Software Testing and Analysis, Portland, Maine, 2006, pp. 61 - 72.
+[2]	N. Bettenburg, M. Nagappan, and A. E. Hassan, "Think locally, act globally: Improving defect and effort prediction models," in Proceedings of the 9th IEEE Working Conference on Mining Software Repositories, 2012, pp. 60-69.
+[3]	P. E. Black, L. Badger, B. Guttman, and E. Fong, "Dramatically Reducing Software Vulnerabilities," US Department of Commerce, US National Institute of Standards and Technology (NIST) Draft NISTIR 8151, October 2016.
+[4]	B. Boehm and V. R. Basili, "Software defect reduction top 10 list," Foundations of empirical software engineering: the legacy of Victor R. Basili, vol. 426, no. p. 37, 2005. 
+[5]	F. Camilo, A. Meneely, and M. Nagappan, "Do bugs foreshadow vulnerabilities? a study of the chromium project," in 2015 IEEE/ACM 12th Working Conference on Mining Software Repositories, 2015, pp. 269-279.
+[6]	C. Catal and B. Diri, "A systematic review of software fault prediction studies," Expert systems with applications, vol. 36, no. 4, pp. 7346-7354, 2009. 
+[7]	N. V. Chawla, K. W. Bowyer, L. O. Hall, and W. P. Kegelmeyer, "SMOTE: synthetic minority over-sampling technique," Journal of artificial intelligence research, vol. 16, no. pp. 321-357, 2002. 
+[8]	S. R. Chidamber and C. F. Kemerer, "A Metrics Suite for Object Oriented Design " IEEE Transactions on Software Engineering, vol. 20, no. 6, pp. 476-493, 1994. 
+[9]	I. Chowdhury and M. Zulkernine, "Using complexity, coupling, and cohesion metrics as early indicators of vulnerabilities," Journal of Systems Architecture, vol. 57, no. 3, pp. 294-313, 2011. 
+[10]	P. Compton, L. Peters, G. Edwards, and T. G. Lavers, "Experience with ripple-down rules," Knowledge-Based Systems, vol. 19, no. 5, pp. 356-362, 2006. 
+[11]	M. Davidsson, J. Zheng, N. Nagappan, L. Williams, and M. Vouk, "GERT: An Empirical Reliability Estimation and Testing Feedback Tool," in International Conference on Software Reliability Engineering, Saint-Malo, France, 2004, pp. 269-280.
+[12]	N. E. Fenton and M. Neil, "A critique of software defect prediction models," IEEE Transactions on software engineering, vol. 25, no. 5, pp. 675-689, 1999. 
+[13]	R. G. Fichman and C. F. Kemerer, "Adoption of software engineering process innovations: The case of object orientation," Sloan management review, vol. 34, no. 2, p. 7, 1993. 
+[14]	W. Fu, T. Menzies, and X. Shen, "Tuning for software analytics: Is it really necessary?," Information and Software Technology, vol. 76, no. pp. 135-146, 2016. 
+[15]	M. Gegick, P. Rotella, and L. Williams, "Toward Non-Security Failures as a Predictor of Security Faults and Failures," in International Symposium on Engineering Secure Software and Systems (ESSoS) 2009, Leuven, Belgium, 2009.
+[16]	M. Gegick and L. Williams, "Toward the Use of Static Analysis Alerts for Early Indication of Vulnerability- and Attack-Prone Components," in The First International Workshop on Systems Vulnerabilities (SYVUL ’07) at First International Conference on Global Defense and Business Continuity, Silicon Valley, CA, 2008.
+[17]	M. Gegick, L. Williams, J. Osborne, and M. Vouk, "Prioritizing Software Security Fortification through Code-Level Security Metrics," in Quality of Protection Workshop at the ACM Conference on Computers and Communications Security (CCS) 2008, Alexandria, VA, 2008, pp. 31-38.
+[18]	B. Ghotra, S. McIntosh, and A. E. Hassan, "Revisiting the impact of classification techniques on the performance of defect prediction models," in International Conference on Software Engineering (ICSE), Florence, Italy, 2015, pp. 789-800 
+[19]	K. Goseva-Popstojanova and A. Perhinschi, "On the capability of static code analysis to detect security vulnerabilities," Information and Software Technology, vol. 68, no. pp. 18-33, 2015. 
+[20]	E. Guzman, D. Azócar, and Y. Li, "Sentiment analysis of commit comments in GitHub: an empirical study," in 11th Working Conference on Mining Software Repositories (MSR 2014), Hyderabad, India, 2014, pp. 352-355.
+[21]	M. A. Hall and G. Holmes, "Benchmarking attribute selection techniques for discrete class data mining," IEEE transactions on knowledge and data engineering, vol. 15, no. 6, pp. 1437-1447, 2003. 
+[22]	T. Hall, S. Beecham, D. Bowes, D. Gray, and S. Counsell, "A systematic literature review on fault prediction performance in software engineering," IEEE Transactions on Software Engineering, vol. 38, no. 6, pp. 1276-1304, 2012. 
+[23]	M. Harman, S. A. Mansouri, and Y. Zhang, "Search-based software engineering: Trends, techniques and applications," ACM Computing Surveys (CSUR), vol. 45, no. 1, p. 11, 2012. 
+[24]	H. He and E. A. Garcia, "Learning from imbalanced data," IEEE Transactions on knowledge and data engineering, vol. 21, no. 9, pp. 1263-1284, 2009. 
+[25]	A. Hovsepyan, R. Scandariato, M. Steff, and W. Joosen, "Design churn as predictor of vulnerabilities?," International Journal of Secure Software Engineering, no. 2014. 
+[26]	Y. Kamei and E. Shihab, "Defect prediction: Accomplishments and future challenges," in 2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2016, pp. 33-45.
+[27]	Y. Kamei, E. Shihab, B. Adams, A. E. Hassan, A. Mockus, A. Sinha, and N. Ubayashi, "A large-scale empirical study of just-in-time quality assurance," IEEE Transactions on Software Engineering, vol. 39, no. 6, pp. 757-773, 2013. 
+[28]	J. Kennedy, "Particle swarm optimization," in Encyclopedia of machine learning: Springer, 2011, pp. 760-766.
+[29]	M. Kim, J. Nam, J. Yeon, S. Choi, and S. Kim, "REMI: Defect Prediction for Efficient API Testing," in ESEC/FSE 2015 Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering Bergamo, Italy, 2015, pp. 990-993.
+[30]	B. Kitchenham, O. P. Brereton, D. Budgen, M. Turner, J. Bailey, and S. Linkman, "Systematic literature reviews in software engineering–a systematic literature review," Information and software technology, vol. 51, no. 1, pp. 7-15, 2009. 
+[31]	C. Lewis, Z. Lin, C. Sadowski, X. Zhu, R. Ou, and E. J. Whitehead Jr, "Does Bug Prediction Support Human Developers? Findings from a Google Case Study," in International Conference on Software Engineering (ICSE), San Francisco, CA, USA, 2013, pp. 372-381 
+[32]	M. Lumpe, R. Vasa, T. Menzies, R. Rush, and Burak Turhan, "Learning Better Inspection Optimization Policies," International Journal of Software Engineering and Knowledge Engineering, vol. 22, no. 5, pp. 621-644, 2012. 
+[33]	F. Massacci and V. H. Nguyen, "Which is the right source for vulnerability studies?: An empirical analysis on mozilla firefox," in Proceedings of the 6th International Workshop on Security Measurements and Metrics, 2010, p. 4.
+[34]	G. Mathew, A. Agarwal, and T. Menzies, "Trends in topics at SE conferences (1993-2013)," ArXiv preprint 2016, https://arxiv.org/abs/1608.08100 
+[35]	A. Meneely and L. Williams, "Evaluating a Suite of Developer Activity Metrics as Measures of Security Vulnerabilities,"  NCSU CSC TR-2008-28, December 11, 2008.
+[36]	A. Meneely and L. Williams, "Strengthening the Empirical Analysis of the Relationship between Linus’ Law and Software Security," in Empirical Software Engineering and Measurement (ESEM) 2010, Bolzano-Bozen, Italy, 2010, p. Article No. 9 
+[37]	A. Meneely, L. Williams, W. Snipes, and J. Osbourne, "Predicting Failures with Developer Networks and Social Network Analysis," in ACM SIGSOFT Foundations of Software Engineering, Atlanta, GA, 2008, pp. 13-23.
+[38]	T. Menzies, A. Brady, J. Keung, J. Hihn, S. Williams, O. El-Rawas, P. Green, and B. Boehm, "Learning project management decisions: a case study with case-based reasoning versus data farming," IEEE Transactions on Software Engineering, vol. 39, no. 12, pp. 1698-1713, 2013. 
+[39]	T. Menzies, A. Butcher, D. Cok, A. Marcus, L. Layman, F. Shull, B. Turhan, and T. Zimmermann, "Local versus global lessons for defect prediction and effort estimation," IEEE Transactions in Software Engineering, vol. 39, no. 6, pp. 822-834, June 2013. 
+[40]	T. Menzies, A. Butcher, A. Marcus, T. Zimmermann, and D. Cok, "Local vs. global models for effort estimation and defect prediction," in Proceedings of the 2011 26th IEEE/ACM International Conference on Automated Software Engineering, 2011, pp. 343-351.
+[41]	T. Menzies, A. Dekhtyar, J. Distefano, and J. Greenwald, "Problems with Precision: A Response to' Comments on'Data Mining Static Code Attributes to Learn Defect Predictors''," IEEE Transactions on Software Engineering, vol. 33, no. 9, p. 637, 2007. 
+[42]	T. Menzies, J. Greenwald, and A. Frank, "Data Mining Static Code Attributes to Learn Defect Predictors," IEEE Trans. Software Eng., vol. 33, no. 1, pp. 2-13, 2007. 
+[43]	T. Menzies, Z. Milton, B. Turhan, B. Cukic, Y. Jiang, and A. Bener, "Defect prediction from static code features: Current results, limitations, new approaches," Automated Software Engineering,, vol. 17, no. 4, pp. 375–407, 2010. 
+[44]	T. Menzies, D. Raffo, S. Setamanit, Y. Hu, and S. Tootoonian, "Model-based tests of Truisms," in Automated Software Engineering, 2002, p. 183.
+[45]	T. Menzies and M. Shepperd, "Special issue on repeatable results in software engineering prediction," Empirical Software Engineering, vol. 17, no. 1, pp. 1-17, 2012. 
+[46]	T. Menzies, L. Williams, and T. Zimmermann, "Perspectives on Data Science for Software Engineering": Morgan Kaufmann, 2016.
+[47]	Mitre, "Common Vulnerabilities and Exposures (CVE)," 
+[48]	P. Morrison, K. Herzig, B. Murphy, and L. Williams, "Challenges with applying vulnerability prediction models," in Proceedings of the 2015 Symposium and Bootcamp on the Science of Security, 2015, p. 4.
+[49]	N. Nagappan, T. Ball, and B. Murphy, "Using Historical In-Process and Product Metrics for Early Estimation of Software Failures," in International Symposium on Software Reliability Engineering, Raleigh, NC, 2006, pp. 62-74.
+[50]	N. Nagappan, T. Ball, and A. Zeller, "Mining Metrics to Predict Component Failures," in International Conference on Software Engineering (ICSE), Shanghai, China, 2006, pp. 452-461.
+[51]	N. Nagappan, L. Williams, J. Osborne, M. Vouk, and P. Abrahamsson, " Providing Test Quality Feedback Using Static Source Code and Automatic Test Suite Metrics," in International Symposium on Software Reliability Engineering (ISSRE) 2005, Chicago, IL, 2005, pp. 85-94.
+[52]	N. Nagappan, L. Williams, M. Vouk, and J. Osborne, "Using In-Process Testing Metrics to Estimate Post-Release Field Quality of Java Programs," in IEEE International Symposium on Software Reliability Engineering, Trollhättan, Sweden, 2007, pp. 209-214.
+[53]	National Science and Technology Council, "Federal Cybersecurity Research and Development Strategic Plan," no. February 2016. 
+[54]	S. Neuhaus and T. Zimmermann, "The Beauty and the Beast: Vulnerabilities in Red Hat's Packages," in USENIX Annual Technical Conference, 2009.
+[55]	S. Neuhaus, T. Zimmermann, C. Holler, and A. Zeller, "Predicting vulnerable software components," in 14th ACM conference on Computer and communications security Alexandria, VA, USA, 2007, pp. 529-540.
+[56]	S. Neuhaus, T. Zimmermann, and A. Zeller, "Predicting Vulnerable Software Components," in the 14th ACM Conference on Computer and Communications Security (CCS’07), Alexandria, Virginia, USA, 2007, pp. 529 - 540.
+[57]	V. H. Nguyen and L. M. S. Tran, "Predicting vulnerable software components with dependency graphs," in Proceedings of the 6th International Workshop on Security Measurements and Metrics, 2010, p. 3.
+[58]	T. J. Ostrand, E. J. Weyuker, and R. M. Bell, "Where the bugs are," in International Symposium on Software Testing and Analysis, Boston, Massachusetts, 2004, pp. 86-96.
+[59]	V. Papakroni, "Data carving: identifying and removing irrelevancies in the data": West Virginia University, 2013.
+[60]	C. Parnin, E. Helms, C. Atlee, H. Boughton, M. Ghattas, A. Glover, J. Holman, J. Micco, B. Murphy, T. Savor, M. Stumm, S. Whitaker, and L. Williams, "Top 10 Adages in Continuous Deployment," IEEE Software, no. p. to appear, 2016. 
+[61]	D. Posnett, V. Filkov, and P. Devanbu, "Ecological inference in empirical software engineering," in Proceedings of the 2011 26th IEEE/ACM International Conference on Automated Software Engineering, 2011, pp. 362-371.
+[62]	D. Radjenović, M. Heričko, R. Torkar, and A. Živkovič, "Software fault prediction metrics: A systematic literature review," Information and Software Technology, vol. 55, no. 8, pp. 1397-1418, 2013. 
+[63]	E. M. Rogers, "Diffusion of innovations": Simon and Schuster, 2010.
+[64]	R. Scandariato, J. Walden, A. Hovsepyan, and W. Joosen, "Predicting vulnerable software components via text mining," IEEE Transactions on Software Engineering, vol. 40, no. 10, pp. 993-1006, 2014. 
+[65]	A. Schröter, T. Zimmermann, and A. Zeller, "Predicting component failures at design time," in Proceedings of the 2006 ACM/IEEE international symposium on Empirical software engineering, 2006, pp. 18-27.
+[66]	M. Shepperd, "Combining Evidence and Meta-analysis in Software Engineering," in Software Engineering: Springer, 2013, pp. 46-70.
+[67]	M. Sherriff, M. Lake, and L. Williams, "Prioritization of Regression Tests Using Singular Value Decomposition with Empirical Change Records," in IEEE International Symposium on Software Reliability Engineering, Trollhättan, Sweden, 2007, pp. 81-90.
+[68]	M. Sherriff and L. Williams, "DevCOP:  A Software Certificate Management System for Eclipse," in International Symposium for Software Reliability Engineering (ISSRE) 2006, Raleigh, NC, 2006, pp. 375-384.
+[69]	Y. Shin, A. Meneely, and L. Williams, "Evaluating Complexity, Code Churn, and Developer Activity Metrics as Indicators of Software Vulnerabilities," IEEE Transactions on Software Engineering, no. 2010. 
+[70]	Y. Shin, A. Meneely, L. Williams, and J. Osbourne, "Evaluating Complexity, Code Churn, and Developer Activity Metrics as Indicators of Software Vulnerabilities," IEEE Transactions in Software Engineering, vol. 37, no. 6, pp. 772 - 787 2011. 
+[71]	Y. Shin and L. Williams, "Can traditional fault prediction models be used for vulnerability prediction?," Empirical Software Engineering, vol. 18, no. 1, pp. 25-59, 2013. 
+[72]	Y. Shin and L. Williams, "An Empirical Model to Predict Security Vulnerabilities Using Code Complexity Metrics," in IEEE Empirical Software Engineering and Metrics (ESEM) 2008 short paper, Kaiserslautern , Germany, 2008, pp. 315-317.
+[73]	Y. Shin and L. Williams, "Is Complexity Really the Enemy of Software Security?," in Quality of Protection Workshop at the ACM Conference on Computers and Communications Security (CCS) 2008, Alexandria, VA, 2008, pp. 47-50.
+[74]	J. Stuckman, J. Walden, and Riccardo Scandariato "The Effect of Dimensionality Reduction on Software Vulnerability
+Prediction Models," IEEE Transactions on Reliability, no. to appear. 
+[75]	S. Subramani, M. Vouk, and L. Williams, "Non-operational testing of software for security issues," in 2013 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2013.
+[76]	M. Tan, L. Tan, S. Dara, and C. Mayeux, "Online defect prediction for imbalanced data," in Proceedings of the 37th International Conference on Software Engineering-Volume 2, 2015, pp. 99-108.
+[77]	C. Tantithamthavorn, S. McIntosh, A. E. Hassan, and K. Matsumoto, "Automated parameter optimization of classification techniques for defect prediction models," in Proceedings of the 38th International Conference on Software Engineering, 2016, pp. 321-332.
+[78]	S. Wang, T. Liu, and L. Tan, "Automatically learning semantic features for defect prediction," in Proceedings of the 38th International Conference on Software Engineering, 2016, pp. 297-308.
+[79]	S. Wang, T. Liu, and L. Tan, "Automatically learning semantic features for defect prediction," in International Conference on Software Engineering (ICSE), 2016, pp. 297-308.
+[80]	L. Williams, W. Krebs, L. Layman, A. Antón, and P. Abrahamsson, "Toward a Framework for Evaluating Extreme Programming," in Empirical Assessment in Software Eng. (EASE) 2004, Edinburgh, Scot., 2004, pp. 11-20.
+[81]	L. Williams, E. M. Maximilien, and M. Vouk, "Test-Driven Development as a Defect-Reduction Practice," in IEEE International Symposium on Software Reliability Engineering, Denver, CO, 2003, pp. 34-45.
+[82]	F. Zhang, Q. Zheng, Y. Zou, and A. E. Hassan, "Cross-project defect prediction using a connectivity-based unsupervised classifier," in Proceedings of the 38th International Conference on Software Engineering, 2016, pp. 309-320.
+[83]	H. Zhang and X. Zhang, "Comments on 'Data Mining Static Code Attributes to Learn Defect Predictors'," IEEE Transactions on Software Engineering, vol. 33, no. 9, pp. 635-637, September 2007. 
+[84]	T. Zimmermann, N. Nagappan, and L. Williams, "Searching for a Needle in a Haystack: Predicting Security Vulnerabilities for Windows Vista," in International Conference on Software Testing, Verification, and Validation 2010, Paris, France, 2010, pp. 421-428.
