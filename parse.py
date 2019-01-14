@@ -10,7 +10,6 @@ with open("ref", "r") as f:
 x = np.array(content.split('"'))
 y = np.array(range(int(len(x)/2)))*2+1
 z = x[y]
-set_trace()
 z = map(str.strip, z)
 
 orig_stdout = sys.stdout
