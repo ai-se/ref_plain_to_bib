@@ -33,7 +33,7 @@ for i in xrange(n):
     # if sheet['PDF Link'][i]:
     #     download_file(sheet['PDF Link'][i],id)
 
-    time.sleep(random.randint(1,20))
+    time.sleep(10)
 
 
 f.close()
